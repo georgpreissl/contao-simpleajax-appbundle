@@ -20,7 +20,7 @@ Frontend:
 			$.ajax({
 				type: "POST",
 				dataType: "json",
-				url: "ajax_tags",
+				url: "/ajax_tags/x",
 				success: function(ret){
 					console.log("Success! " + ret);
 				},

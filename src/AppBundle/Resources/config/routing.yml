@@ -1,6 +1,6 @@
 app.ajax_tags:
-   path: /ajax_tags/{param1}
-   defaults:
-       _scope: frontend
-       _token_check: true
-       _controller: 'AppBundle\Controller\AjaxTagsController'
+    path: /ajax_tags/{param1}
+    defaults:
+        _scope: frontend
+        _token_check: true
+        _controller: 'AppBundle\Controller\AjaxTagsController'
