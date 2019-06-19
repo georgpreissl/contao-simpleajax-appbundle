@@ -1,7 +1,6 @@
 # contao-simpleajax-appbundle
 
-
-# Frontend:
+Frontend:
 
 ```
 <a href="#" class="test_link">testme</a>
